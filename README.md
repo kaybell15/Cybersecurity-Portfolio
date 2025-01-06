@@ -6,3 +6,13 @@
 *Graduated: December 2024*
 
 **Courses Taken:** 
+- **Cryptography**:
+- **Digital Forensics**:
+- **Data Analytics with Python**:
+- **Cybersecurity**:
+- **Contingency Planning**:
+- **Cybersecurity Management**:
+- **Machine Learning**:
+- **Business Inteligence**:
+
+ 
