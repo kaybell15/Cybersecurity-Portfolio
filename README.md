@@ -15,4 +15,22 @@
 - **Machine Learning**: Studied algorithms for data-driven decision-making and applications in anomaly detection.  
 - **Business Intelligence**: Analyzed data to support decision-making using BI tools and techniques.
 
+### Personal Projects
+## Cybersecurity Homelab
+
+**Description**:  
+Built a personal homelab environment featuring the following components:
+- **pfSense**: Used as a firewall and router for network security.
+- **Kali Linux**: Employed for penetration testing and ethical hacking.
+- **Linux Mint**: Used as a general-purpose operating system for day-to-day tasks and testing.
+
+This lab is designed for testing and practicing cybersecurity tools and techniques in a safe and controlled environment.
+
+[View Project on GitHub](#)
+
+
+
+### Skills
+
+### Contact
  
