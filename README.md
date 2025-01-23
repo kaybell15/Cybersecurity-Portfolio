@@ -29,9 +29,3 @@ This lab is designed for testing and practicing cybersecurity tools and techniqu
 
 [View Project on GitHub](#)
 
-
-
-### Skills
-
-### Contact
- 
