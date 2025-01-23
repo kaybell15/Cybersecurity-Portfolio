@@ -1,6 +1,6 @@
 # Cybersecurity-Portfolio
 
-### Education
+## Education
 
 **Master of Science in Cybersecurity and Data Analytics**
 *Graduated: December 2024*
@@ -15,8 +15,9 @@
 - **Machine Learning**: Studied algorithms for data-driven decision-making and applications in anomaly detection.  
 - **Business Intelligence**: Analyzed data to support decision-making using BI tools and techniques.
 
-### Personal Projects
-## Cybersecurity Homelab
+## Personal Projects
+
+### *Cybersecurity Homelab*
 
 **Description**:  
 Built a personal homelab environment featuring the following components:
